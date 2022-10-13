@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Assignment1 Prog n tech">
+      <HintPath>..\..\Assignment1 Prog n tech\Assignment1 Prog n tech\obj\Debug\net6.0\Assignment1 Prog n tech.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
